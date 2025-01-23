@@ -57,6 +57,7 @@ h1 {
     line-height: 80px;
     text-align: left;
     color: #5D5D7D;
+    
 
 
     width: 368px;
@@ -70,6 +71,7 @@ p {
     text-align: left;
     color: #5D5D7D;
     margin: 15px 0;
+    
 
 
     width: 540px;
@@ -144,6 +146,7 @@ header {
         text-align: center;
         margin: 58px 54px 0 54px;
         height: 104px;
+        margin-left: auto;
         
        
        
@@ -160,7 +163,7 @@ header {
 
         width: auto;
         height: 96px;
-       
+       margin-left: auto;
 
 
         
@@ -172,6 +175,7 @@ header {
     button {
         margin: 0 auto;
        display: block;
+       margin-left: 10px;
     }
 
     .botton-get:hover {
