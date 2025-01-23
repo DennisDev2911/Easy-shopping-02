@@ -6,3 +6,5 @@
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+
+<img src="https://github.com/DennisDev2911/Easy-shopping-02/blob/master/assets/Easy%20Shopping.JPG?raw=true" />
