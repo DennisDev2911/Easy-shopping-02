@@ -6,6 +6,10 @@
 
 Este projeto é um tutorial que ensina a como criar um Lading Pages **Easy Shopping** ao usar _HTML_ e _CSS_.
 
+<h3>O que é uma landing page?</h3>
+<br>
+<p>Em termos mais simples, uma landing page é uma página que os visitantes "pousam" (daí o nome em inglês "landing page") após clicarem em um link em um anúncio, e-mail, publicação em mídia social ou resultado de pesquisa.</p>
+
 ## 🚀 Tecnologias
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
