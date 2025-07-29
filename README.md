@@ -26,3 +26,4 @@ Este projeto é um tutorial que ensina a como criar um Lading Pages **Easy Shopp
 <h3>Esse foi um projeto que aprendi no <a>DevClub</a></h3>
 
 <img src="https://github.com/DennisDev2911/Easy-shopping-02/blob/master/assets/Easy%20Shopping.JPG?raw=true" />
+<img src="https://github.com/DennisDev2911/Easy-shopping-02/blob/master/assets/Easy_shopping_celular-removebg-preview.png?raw=true"/>
